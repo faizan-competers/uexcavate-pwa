@@ -1,1 +1,9 @@
+# server ignore
 server/node_modules
+server/package-lock.json
+
+# client ignore
+client/node_modules
+client/e2e
+client/.gitignore
+client/package-lock.json
