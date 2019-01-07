@@ -1,1 +1,1 @@
-test pwa
+excavate-pwa
